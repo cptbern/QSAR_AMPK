@@ -1,2 +1,2 @@
 # QSAR_AMPK
-Modelling structure activity relationship of AMPK activation
+Supporting material for "Modelling structure activity relationship of AMPK activation"
